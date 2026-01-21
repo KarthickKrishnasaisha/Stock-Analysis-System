@@ -1,0 +1,6 @@
+langgraph
+langchain
+finrl 
+pandas
+yfinance
+IPython
